@@ -1,0 +1,35 @@
+const CardsData = [
+  {
+    id: 1,
+    type: "basic",
+    title: "10 Credits",
+    description: "Ideal for small businesses or occasional job postings.",
+    price: 49.99,
+    mostPopular: false,
+    data: ["Post up to 10 jobs", "Standard customer support"],
+  },
+  {
+    id: 2,
+    type: "medium",
+    title: "20 Credits",
+    description: "Great for growing businesses with regular hiring needs.",
+    price: 99.99,
+    mostPopular: true,
+    data: ["Post up to 10 jobs", "Priority customer support"],
+  },
+  {
+    id: 3,
+    type: "pro",
+    title: "50 Credits",
+    description: "Perfect for large businesses with frequent job postings.",
+    price: 459.99,
+    mostPopular: false,
+    data: [
+      "Post up to 50 jobs",
+      "24/7 customer support",
+      "Early access to new features",
+    ],
+  },
+];
+
+export default CardsData;

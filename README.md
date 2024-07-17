@@ -51,7 +51,8 @@ JobQuest is a job board application built with the MERN stack (MongoDB, Express.
 
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/c51e5825-ea4e-4f2c-90d1-2dde23c7e1ac">
 
-<img width="1512" alt="image" src="https://github.com/user-attachments/assets/ad5d66da-6740-443c-b6d6-db512aad2a76">
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/6bd190e1-8e4b-4b80-a25c-ab58008eb557">
+
 
 
 
